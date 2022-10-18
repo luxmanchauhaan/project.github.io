@@ -1,0 +1,56 @@
+body{
+font-family: sans-serif;
+width: 90%;
+height: 90%;
+margin: 10px;
+background-size: cover;
+padding: 0;
+background-image: url(background.png);
+background-position: center;
+}
+.signin{
+width: 150px;
+height: 250px;
+padding:10%;
+background: #fff;
+margin:7%;
+text-align:center;
+margin-left: 35%;
+top margin-top: 30%;
+
+
+
+
+}
+
+.signup h1{
+    color: #1a73e8;
+    margin-bottom: 30px;
+    text-decoration: solid;
+    margin-top: -10;
+}
+.inbox{
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    width: 100%;
+    margin-left: 2%;
+}
+h3{
+    color:#202124;
+    font-size: 16px;
+    font-weight: 400px;
+}
+
+button{
+    cursor: pointer;
+    border:1px solid transparent;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height:1.42;
+    color:white;
+    border-radius:4px;
+    background-color:#1a73e8;
+    outline:none;
+    min-width:88px;
+}
